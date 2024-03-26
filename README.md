@@ -5,7 +5,7 @@
 <p align="left">
   
   
-<a href="[https://twitter.com/chhavikant907](https://www.linkedin.com/in/chhavikant-mahobia-1b84922b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="chhavikant907" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/chhavikant](https://www.linkedin.com/in/chhavikant-mahobia-1b84922b3/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavikant" height="30" width="40" /></a>
 <a href="https://twitter.com/chhavikant907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavikant907" height="30" width="40" /></a>
 <a href="https://instagram.com/chhaviii_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhaviii_16" height="30" width="40" /></a>
 </p>
