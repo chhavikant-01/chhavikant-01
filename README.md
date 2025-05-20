@@ -1,3 +1,1 @@
 <h1 align="center"> LinkUni is Open Source - and Its Own Organization!</h1> <p align="center"> <strong>A collaborative space for students to share, learn, and grow together.</strong><br> Now powered by its own GitHub organization! </p> <p align="center"> <em>Built with LLMs, Retrieval-Augmented Generation (RAG), and cutting-edge AI.</em> </p> <p align="center"> 👉 <a href="https://github.com/orgs/linkuni/repositories"><b>Explore LinkUni Projects</b></a> </p> <p align="center"> <em>Join us and help shape the future of open, AI-powered education!</em> </p>
-
-[![Chhavikant Mahobia profile views](https://u8views.com/api/v1/github/profiles/137890733/views/day-week-month-total-count.svg)](https://u8views.com/github/chhavikant-01)
